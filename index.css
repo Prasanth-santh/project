@@ -497,9 +497,8 @@
 }
 .chef-social{
     position: absolute;
-    display: flex;
-    justify-content: center;
-    align-items: center;
+    top: 40%;
+    left: 15%;
     display: none;
 }
 .chefimg:hover .chef-social{
